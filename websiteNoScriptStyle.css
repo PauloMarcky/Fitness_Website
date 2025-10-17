@@ -1,8 +1,8 @@
 .container {
     user-select: none;
     margin-top: 100px;
-    width: 350px;
-    height: 360px;
+    width: 25%;
+    height: 40%;
     background: hsla(0, 0%, 85%, 0.789);
     padding: 50px;
     padding-top: 20px;
@@ -109,3 +109,4 @@ body{
     justify-content: center; 
     background-image: url(images/fitness_bgnd.jpg);
 }
+
